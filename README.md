@@ -7,7 +7,7 @@ The repository contains code for signal processing, manual vibration analysis, a
 ## Repository Structure
 
 ```text
-Public Code/
+src/
 ├── DL/
 │   └── Deep learning models and analysis
 ├── Functions/
