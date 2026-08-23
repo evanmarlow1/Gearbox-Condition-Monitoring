@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# MATLAB
+*.asv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MATLAB generated files
+*.mat
